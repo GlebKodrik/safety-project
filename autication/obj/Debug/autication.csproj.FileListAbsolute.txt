@@ -1,0 +1,16 @@
+C:\Users\kl\Desktop\Работа с c#\авторизейшен\autication\bin\Debug\autication.exe.config
+C:\Users\kl\Desktop\Работа с c#\авторизейшен\autication\bin\Debug\autication.exe
+C:\Users\kl\Desktop\Работа с c#\авторизейшен\autication\bin\Debug\autication.pdb
+C:\Users\kl\Desktop\Работа с c#\авторизейшен\autication\obj\Debug\autication.csprojAssemblyReference.cache
+C:\Users\kl\Desktop\Работа с c#\авторизейшен\autication\obj\Debug\autication.Properties.Resources.resources
+C:\Users\kl\Desktop\Работа с c#\авторизейшен\autication\obj\Debug\autication.csproj.GenerateResource.cache
+C:\Users\kl\Desktop\Работа с c#\авторизейшен\autication\obj\Debug\autication.exe
+C:\Users\kl\Desktop\Работа с c#\авторизейшен\autication\obj\Debug\autication.pdb
+C:\Users\kl\Desktop\Работа с c#\авторизейшен\autication\bin\Debug\MySql.Data.dll
+C:\Users\kl\Desktop\Работа с c#\авторизейшен\autication\bin\Debug\Google.Protobuf.dll
+C:\Users\kl\Desktop\Работа с c#\авторизейшен\autication\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kl\Desktop\Работа с c#\авторизейшен\autication\bin\Debug\Renci.SshNet.dll
+C:\Users\kl\Desktop\Работа с c#\авторизейшен\autication\bin\Debug\MySql.Data.xml
+C:\Users\kl\Desktop\Работа с c#\авторизейшен\autication\obj\Debug\autication.csproj.CopyComplete
+C:\Users\kl\Desktop\Работа с c#\авторизейшен\autication\obj\Debug\autication.RegisterForm.resources
+C:\Users\kl\Desktop\Работа с c#\авторизейшен\autication\obj\Debug\autication.form.resources
